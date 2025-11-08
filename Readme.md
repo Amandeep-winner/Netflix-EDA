@@ -1,4 +1,9 @@
 <!-- ## NETFLIX EDA -->
+# NETFLIX EDA
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-orange)
+
 ## ⚙️ Setup & Installation
 Follow the steps below to set up and run this project locally.
 
@@ -75,7 +80,3 @@ If you face issues with library versions, recreate your environment using:
 ```bash
 pip install -r requirements.txt
 ```
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
-![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-orange)
