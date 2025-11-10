@@ -22,3 +22,7 @@ data/
 
 # Ignore logs
 *.log
+
+# --- IGNORE ALL CSVs EXCEPT CLEANED ONES ---
+*.csv
+!cleaned_data/*.csv
