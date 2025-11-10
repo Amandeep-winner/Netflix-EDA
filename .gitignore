@@ -16,7 +16,7 @@ __pycache__/
 .vscode/
 
 # Ignore data files (optional)
-data/
+
 *.csv
 *.xlsx
 
